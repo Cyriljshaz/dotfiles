@@ -1,0 +1,71 @@
+{
+    "window.zoomLevel": 0.5,
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "terminal.integrated.fontFamily": "JetBrains Mono",
+    // "terminal.integrated.fontSize": 18,
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": false,
+    "editor.renderWhitespace": "trailing",
+    "editor.linkedEditing": true,
+    "editor.occurrencesHighlight": false,
+    "editor.suggest.insertMode": "replace",
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    // "editor.inlineSuggest.enabled": true
+    // "editor.fontSize": 18,
+    // "editor.accessibilityPageSize": 18,
+    "vsicons.dontShowNewVersionMessage": true,
+    "explorer.confirmDragAndDrop": false,
+    "git.autofetch": true,
+    "window.autoDetectColorScheme": true,
+    "files.autoSave":"onFocusChange",
+    "files.defaultLanguage": "markdown",
+    // "files.exclude":{
+    //     "**/.git": true,
+    //     "**/.svn": true,
+    //     "**/.hg": true,
+    //     "**/CVS": true,
+    //     "**/.DS_Store": true,
+    //     "**/Thumbs.db": true
+    // },
+    "explorer.autoReveal": false,
+    "explorer.confirmDelete": false,
+    "explorer.enableDragAndDrop": false,
+    "workbench.tree.indent":15,
+    "workbench.tree.renderIndentGuides": "always",
+    "workbench.editor.enablePreview": false,
+    "emmet.triggerExpansionOnTab": true,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "remote.SSH.defaultExtensions": [
+        "gitpod.gitpod-remote-ssh"
+    ],
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Tokyo Night",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,
+    "editor.lineHeight": 28,
+    "editor.fontSize": 16,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorCustomizations":{
+        "[Tokyo Night]": {
+            "editor.selectionBackground": "#3D59A1",
+            "editor.selectionHighlightBackground": "#3D59A1"
+        },
+    },
+    "gitlens.currentLine.enabled": false,
+    "gitlens.codeLens.enabled": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "multiCommand.commands": [
+        {   
+            "command": "multiCommand.makeRoom",
+            "sequence": [
+                "workbench.action.toggleSidebarVisibility",
+                "workbench.action.toggleActivityBarVisibility",
+            ]
+        }
+    ],
+    "editor.inlineSuggest.enabled": true,
+    "npm.keybindingsChangedWarningShown": true
+}
