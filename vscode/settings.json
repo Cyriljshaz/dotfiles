@@ -3,7 +3,7 @@
     "terminal.external.osxExec": "iTerm.app",
     "terminal.integrated.shell.osx": "/bin/zsh",
     "terminal.integrated.fontFamily": "JetBrains Mono",
-    // "terminal.integrated.fontSize": 18,
+    "terminal.integrated.fontSize": 18,
     "editor.formatOnSave": false,
     "editor.formatOnPaste": false,
     "editor.renderWhitespace": "trailing",
