@@ -1,0 +1,1 @@
+Je vais regrouper ici toutes les commandes homebrew que j'ai tapé pour installer mon setup
