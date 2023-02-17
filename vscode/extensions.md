@@ -1,19 +1,19 @@
 # Liste des extensions que j'utilise
 
-## Github Copilot
+- Github Copilot
 
-## Git Lens
+- Git Lens
 
-## Git Graph
+- Git Graph
 
-## Git History
+- Git History
 
-## Prettier
+- Prettier
 
-## Tokyo Night
+- Tokyo Night
 
-## vscode-icons
+- vscode-icons
 
-## SVG
+- SVG
 
-## vscode-pdf
+- vscode-pdf

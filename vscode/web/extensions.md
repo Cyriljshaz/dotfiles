@@ -1,1 +1,8 @@
 - PrevYou
+- 1 Password
+- Bootstrap Grid Overlay
+- Google translate
+- Ip Domain Country Flag
+- Wappalyer
+- Ublock
+- Save to Google Drive
